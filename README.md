@@ -1,3 +1,6 @@
-CS111 Projects
+Projects from Rutgers Introduction to Computer Science
 
-Simple Java and OOP Programming
+Simple Java, OOP Programming and Sorting Methods
+
+
+*All credit to Rutgers University CS Department*
